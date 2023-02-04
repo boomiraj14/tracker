@@ -62,6 +62,7 @@ POSTMAN Requests
 
 
 
+![image](https://user-images.githubusercontent.com/98741671/216782918-e5d20d12-cdd5-43b4-b4c5-77abc96e346f.png)
 
 
 
