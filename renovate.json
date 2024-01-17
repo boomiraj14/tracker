@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ]
+  "prHeader": "boomiraj14",
+  "assignees": [
+    "boomiraj14"
+  ],
+  "labels": ["dependencies-testable"],
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["maven"],
+      "labels": ["maven-testlabel"]
+    }
+  ]
+}
